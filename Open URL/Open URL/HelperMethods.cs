@@ -63,7 +63,7 @@ namespace Open_URL
                 (accumulated, kvp) => string.Format($"{accumulated}{kvp.Key}={kvp.Value}&"));
         }
 
-        public static void PrintResult(ResponseActual response)
+        public static void OpenVideosinBrowser(ResponseActual response)
         {
             int i = 0;
             for (int j = 0; j < response.Items.Count; j++)

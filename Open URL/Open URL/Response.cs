@@ -6,21 +6,21 @@ namespace Open_URL
     public struct ResponseActual
     {
         [JsonProperty("nextPageToken")]
-        public string NextPageToken { get; set; }
+        public string NextPageToken;
 
         [JsonProperty("items")]
-        public List<ItemsClass> Items { get; set; }
+        public List<ItemsClass> Items;
     }
 
     public struct ItemsClass
     {
         [JsonProperty("contentDetails")]
-        public ContentDetailsClass ContentDetails { get; set; }
+        public ContentDetailsClass ContentDetails;
     }
 
     public struct ContentDetailsClass
     {
         [JsonProperty("videoId")]
-        public string VideoId { get; set; }
+        public string VideoId;
     }
 }

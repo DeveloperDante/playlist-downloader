@@ -18,15 +18,17 @@ namespace Open_URL
 
                 try
                 {
+                    System.Diagnostics.Process.Start("http://google.com");
                     var result = HelperMethods.GetVideosInPlayListAsync(playListID, "").Result;
+                    //Console.Write(result);
                     ResponseActual response = JsonConvert.DeserializeObject<ResponseActual>(result);
-                    HelperMethods.PrintResult(response);
+                    HelperMethods.OpenVideosinBrowser(response);
 
                     while (!string.IsNullOrEmpty(response.NextPageToken))
                     {
                         result = HelperMethods.GetVideosInPlayListAsync(playListID, response.NextPageToken).Result;
                         response = JsonConvert.DeserializeObject<ResponseActual>(result);
-                        HelperMethods.PrintResult(response);
+                        HelperMethods.OpenVideosinBrowser(response);
                     }
                 }
                 catch (AggregateException ex)
