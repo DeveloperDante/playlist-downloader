@@ -1,0 +1,24 @@
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Open URL.exe.config
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Open URL.exe
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Open URL.pdb
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.Core.dll
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.dll
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.pdb
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.xml
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.Core.xml
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\obj\Debug\Open URL.csprojResolveAssemblyReference.cache
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\obj\Debug\Open URL.csproj.CoreCompileInputs.cache
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\obj\Debug\Open URL.exe
+C:\Users\sagar\source\repos\playlist-downloader\Open URL\Open URL\obj\Debug\Open URL.pdb
